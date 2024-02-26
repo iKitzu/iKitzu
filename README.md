@@ -5,10 +5,9 @@
 - 📫 How to reach me: simple, don't do it  🥶
 - 😄 Pronouns: Yes
 - ⚡ Fun fact: I love foxes 🦊 ❤️
-- 
 
 Thanks for reading this piece of shit
-            —ฅ/ᐠ. ̫ .ᐟ\ฅ —
+.            —ฅ/ᐠ. ̫ .ᐟ\ฅ —
 
 
 <!---
