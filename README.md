@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @iKitzu![image](https://media.tenor.com/z6DsdmHQaxoAAAAM/fgo-megumin.gif)
-
+![image](https://media.tenor.com/z6DsdmHQaxoAAAAM/fgo-megumin.gif)
+- 👋 Hi, I’m @iKitzu
 - 👀 I’m interested in creating a multiplayer porn game
 - 🌱 I am currently learning to program 
 - 💞️ I’m looking to collaborate on: NLF (No Limits Fun)
