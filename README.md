@@ -1,6 +1,8 @@
 
-![mahou-shoujo-magical-girl](https://github.com/iKitzu/iKitzu/assets/156432424/ab7845d5-229a-441b-b618-3d14b7d78670)
 #I'm iKitzu!
+
+
+![mahou-shoujo-magical-girl](https://github.com/iKitzu/iKitzu/assets/156432424/ab7845d5-229a-441b-b618-3d14b7d78670)
 
 - 👋 Hi, I’m @iKitzu
 - 👀 I’m interested in creating a multiplayer porn game
