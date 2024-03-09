@@ -11,7 +11,8 @@
 - ⚡ Fun fact: I love foxes 🦊 ❤️
 
   
-![magia-sulfur-tenkawa-kaoruko](https://github.com/iKitzu/iKitzu/assets/156432424/e6c48f88-e2b8-46f8-9123-b7dd36b2153c)
+
+![mahou-shoujo-magical-girl](https://github.com/iKitzu/iKitzu/assets/156432424/ab7845d5-229a-441b-b618-3d14b7d78670)
 
 
 Thanks for reading this piece of shit
