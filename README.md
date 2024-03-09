@@ -1,6 +1,6 @@
 
 ![mahou-shoujo-magical-girl](https://github.com/iKitzu/iKitzu/assets/156432424/ab7845d5-229a-441b-b618-3d14b7d78670)
-
+#I'm iKitzu!
 
 - 👋 Hi, I’m @iKitzu
 - 👀 I’m interested in creating a multiplayer porn game
@@ -18,14 +18,6 @@ Thanks for reading this piece of shit
 
 
 
-
-<p align="center">
-
-# Título centrado
-
-Este es un párrafo de texto centrado.
-
-</p>
 
 
 
