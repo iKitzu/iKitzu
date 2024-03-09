@@ -1,4 +1,4 @@
-![image]([https://media.tenor.com/z6DsdmHQaxoAAAAM/fgo-megumin.gif](https://tenor.com/es/view/magia-sulfur-tenkawa-kaoruko-stronk-mahoako-mahou-shoujo-ni-akogarete-gif-4839191213645595055))
+![image](https://tenor.com/es/view/magia-sulfur-tenkawa-kaoruko-stronk-mahoako-mahou-shoujo-ni-akogarete-gif-4839191213645595055)
 - 👋 Hi, I’m @iKitzu
 - 👀 I’m interested in creating a multiplayer porn game
 - 🌱 I am currently learning to program 
