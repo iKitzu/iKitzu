@@ -1,4 +1,7 @@
-![image](https://tenor.com/es/view/magia-sulfur-tenkawa-kaoruko-stronk-mahoako-mahou-shoujo-ni-akogarete-gif-4839191213645595055)
+
+![magia-sulfur-tenkawa-kaoruko](https://github.com/iKitzu/iKitzu/assets/156432424/faaca9dc-e295-46f5-9d95-270eb28141b3)
+
+
 - 👋 Hi, I’m @iKitzu
 - 👀 I’m interested in creating a multiplayer porn game
 - 🌱 I am currently learning to program 
@@ -7,8 +10,13 @@
 - 😄 Pronouns: Yes
 - ⚡ Fun fact: I love foxes 🦊 ❤️
 
+  
+![magia-sulfur-tenkawa-kaoruko](https://github.com/iKitzu/iKitzu/assets/156432424/e6c48f88-e2b8-46f8-9123-b7dd36b2153c)
+
+
 Thanks for reading this piece of shit
 .            —ฅ/ᐠ. ̫ .ᐟ\ฅ —
+
 
 
 <!---
