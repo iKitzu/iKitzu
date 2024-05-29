@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy @iKitzu
 
-![mahou-shoujo-magical-girl](https://github.com/iKitzu/iKitzu/assets/156432424/ab7845d5-229a-441b-b618-3d14b7d78670)
+![elf-eat](https://github.com/iKitzu/iKitzu/assets/156432424/ca264581-f84c-44ac-8b51-06b405aed2e7)
 
  👋 Hi, I’m @iKitzu
  
@@ -18,7 +18,7 @@
  
  ⚡ Fun fact: I love foxes 🦊 ❤️
 
-![magia-sulfur-tenkawa-kaoruko](https://github.com/iKitzu/iKitzu/assets/156432424/faaca9dc-e295-46f5-9d95-270eb28141b3)
+![elf-hug](https://github.com/iKitzu/iKitzu/assets/156432424/5b3ed0e2-570d-4560-9620-0560c9df1a86)
 
 Thanks for reading this piece of shit
 .            —ฅ/ᐠ. ̫ .ᐟ\ฅ —
