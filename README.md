@@ -32,22 +32,34 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
   </p>
+  
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <strong>General Stats</strong>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iKitzu&show_icons=true&theme=radical" alt="iKitzu's GitHub Stats" />
+</p>
+<p align="center">
+  <strong>Most used languages</strong>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKitzu&layout=compact&theme=radical" alt="iKitzu's Top Languages" />
+</p>
+<p align="center">
+  <strong>Recent contributions</strong>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iKitzu&theme=radical" alt="iKitzu's GitHub Streak" />
+</p>
+
+
 
   <p>
     Thanks for reading!
-  </p>
-
-<h3 align="center">GitHub Stats</h3>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=iKitzu&show_icons=true&theme=radical" alt="iKitzu's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKitzu&layout=compact&theme=radical" alt="iKitzu's Top Languages" />
-  
   </p>
   
 </div>
