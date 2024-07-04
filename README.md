@@ -41,4 +41,13 @@
   <p>
     Thanks for reading!
   </p>
+
+<h3 align="center">GitHub Stats</h3>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=iKitzu&show_icons=true&theme=radical" alt="iKitzu's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKitzu&layout=compact&theme=radical" alt="iKitzu's Top Languages" />
+  
+  </p>
+  
 </div>
