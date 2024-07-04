@@ -1,36 +1,29 @@
-<div align="center">
+<h1 align="center">Hi there 👋, I'm Kenneth Santiago Ceballos Sierra</h1>
 
-# ¡Hola! Soy @iKitzu
-
-![elf-eat](https://github.com/iKitzu/iKitzu/assets/156432424/ca264581-f84c-44ac-8b51-06b405aed2e7)
-
- 👋 Hi, I’m @iKitzu
- 
- 👀 I’m interested in creating a multiplayer porn game
- 
- 🌱 I am currently learning to program 
- 
- 💞️ I’m looking to collaborate on: NLF (No Limits Fun)
- 
- 📫 How to reach me: simple, don't do it  🥶
- 
- 😄 Pronouns: Yes
- 
- ⚡ Fun fact: I love foxes 🦊 ❤️
-
-![elf-hug](https://github.com/iKitzu/iKitzu/assets/156432424/5b3ed0e2-570d-4560-9620-0560c9df1a86)
-
-Thanks for reading this piece of shit
-.            —ฅ/ᐠ. ̫ .ᐟ\ฅ —
-
-</div>
-
-
-
-
-
-
-<!---
-iKitzu/iKitzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!--- 
+ Aqui va una foto pitera de mi perfil
 --->
+
+- 👀 I'm interested in learning every day 
+ 
+- 🌱 I am currently learning ** MySql|Java**
+  
+- 📫 How to reach me: **[kennethsantiagoc@gmail.com](mailto:kennethsantiagoc@gmail.com)**
+  
+- ⚡ Fun fact: I love foxes 🦊 ❤️
+
+- 📲 **Web Developer**
+
+### Languages and Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+</p>
+
+Thanks for reading!
