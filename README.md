@@ -13,9 +13,7 @@
     🌱 Actualmente estoy estudiando <strong>MySql | Java</strong> y fortaleciendo mis habilidades en programación.
   </p>
 
-  <p>
-    📫 Contactame!: <a href="mailto:kennethsantiagoc@gmail.com">kennethsantiagoc@gmail.com</a> | <a href="[https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/kenneth-ceballos-95ab61315/)">LinkedIn</a> |
-  </p>
+
 
   <p>
     ⚡ Fun fact: <strong>Me encantan los zorros 🦊 ❤️</strong>
