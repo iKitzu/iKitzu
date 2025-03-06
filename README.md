@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola a todos! 👋, Soy Kenneth Santiago Ceballos Sierra</h1>
+  <h1>Hola a todos! 👋, Soy iKitzu</h1>
 
   <p>
     <img src="https://github.com/iKitzu/iKitzu/assets/156432424/59d6857c-710f-407b-b2d2-2709d75c6e35" width="750"/>
